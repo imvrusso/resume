@@ -1,12 +1,10 @@
-<p align="center"><img src="picture.png" width="25%" height="25%"></p>
-
-<p align="center">
-  <a href="mailto:russovalerio.92%40icloud.com"><img src="https://img.shields.io/badge/Email-russovalerio.92%40icloud.com-red.svg" alt="Email"></a>
-  <a href="tel:+393500131231"><img src="https://img.shields.io/badge/Mobile-+393500131231-blue.svg" alt="Mobile"></a>
-  <a href="https://goo.gl/maps/s1sKSPhFboDjP5v87"><img src="https://img.shields.io/badge/Location-Cernusco%20sul%20Naviglio-brightgreen.svg" alt="Location"></a>
-</p>
+<p align="center"><h1>Valerio Russo</h1><img src="picture.png" width="25%" height="25%"></p>
 
 ---
+
+Email: [russovalerio.92%40icloud.com](mailto:russovalerio.92%40icloud.com)
+Mobile: [+393500131231](tel:+393500131231)
+Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 
 <br/>
 
@@ -17,6 +15,7 @@
 
 - Applying deep learning to churn analysis.
 - Applying machine learning to lookalike modelling and multi-channel attribution.
+- Building the pipelines of data science algorithms in production.
 
 ---
 
