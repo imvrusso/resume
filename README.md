@@ -1,4 +1,4 @@
-<p align="center"><img src="picture.png"></p>
+<p align="center"><img src="picture.png" width="25%" height="25%"></p>
 
 <p align="center">
   <a href="mailto:russovalerio.92%40icloud.com"><img src="https://img.shields.io/badge/Email-russovalerio.92%40icloud.com-red.svg" alt="Email"></a>
