@@ -17,7 +17,7 @@ Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 - Applying machine learning to lookalike modelling and multi-channel attribution.
 - Building the pipelines of data science algorithms in production.
 
-<img src="https://img.shields.io/badge/-R-167af5"> <img src="https://img.shields.io/badge/-Python-167af5"> <img src="https://img.shields.io/badge/-Keras-167af5"> <img src="https://img.shields.io/badge/-Spark-167af5"> <img src="https://img.shields.io/badge/-AWS-167af5"> <img src="https://img.shields.io/badge/-Airflow-167af5">
+<img src="https://<!--this removes the link-->img.shields.io/static/v1?style=flat-square&label=&message=R&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Keras&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Spark&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AWS&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Airflow&color=327df6">
 
 ---
 
@@ -26,7 +26,7 @@ Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 
 Working on quick analysis on predictive maintenance, anomaly detection and lifetime value.
 
-<img src="https://img.shields.io/badge/-R-167af5"> <img src="https://img.shields.io/badge/-Python-167af5"> <img src="https://img.shields.io/badge/-Hadoop-167af5">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=R&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Hadoop&color=327df6">
 
 ---
 
@@ -36,7 +36,7 @@ Working on quick analysis on predictive maintenance, anomaly detection and lifet
 - Building service-oriented applications and documenting the process.
 - Developing a web app that helps clients moving towards the Cloud.
 
-<img src="https://img.shields.io/badge/-Oracle%20SOA-167af5"> <img src="https://img.shields.io/badge/-Node-167af5"> <img src="https://img.shields.io/badge/-SQL-167af5">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Oracle SOA&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Node&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=327df6">
 
 ---
 
@@ -45,7 +45,7 @@ Working on quick analysis on predictive maintenance, anomaly detection and lifet
 
 Developing iOS applications with a spin-off promoted by my university.
 
-<img src="https://img.shields.io/badge/-Objective%20C-167af5"> <img src="https://img.shields.io/badge/-Swift-167af5">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Objective--C&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Swift&color=327df6">
 
 ---
 
