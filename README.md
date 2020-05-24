@@ -36,7 +36,7 @@ Working on quick analysis on predictive maintenance, anomaly detection and lifet
 - Building service-oriented applications and documenting the process.
 - Developing a web app that helps clients moving towards the Cloud.
 
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Oracle SOA&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Node&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=327df6">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Oracle%20SOA&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Node&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=327df6">
 
 ---
 
