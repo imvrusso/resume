@@ -1,9 +1,9 @@
-<p align="center"><h1>Valerio Russo</h1><img src="picture.png" width="25%" height="25%"></p>
+<div align="center"><h1>Valerio Russo</h1><img src="picture.png" width="25%" height="25%"></div>
 
 ---
 
-Email: [russovalerio.92%40icloud.com](mailto:russovalerio.92%40icloud.com)
-Mobile: [+393500131231](tel:+393500131231)
+Email: [russovalerio.92%40icloud.com](mailto:russovalerio.92@icloud.com)  
+Mobile: [+393500131231](tel:+393500131231)  
 Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 
 <br/>
@@ -44,6 +44,15 @@ Developing iOS applications with a spin-off promoted by my university.
 <br/>
 
 ## Education
+
+#### Data Science, [Coursera](https://www.coursera.org/)
+##### 2018 | Remote
+
+- Improving your statistical inferences
+- Machine Learning
+- Statistics with R
+
+---
 
 #### Computer Science, [Università degli Studi di Milano Bicocca](https://en.unimib.it)
 ##### (2014 - 2016) | Milan
