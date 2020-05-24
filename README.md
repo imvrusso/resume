@@ -17,7 +17,7 @@ Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 - Applying machine learning to lookalike modelling and multi-channel attribution.
 - Building the pipelines of data science algorithms in production.
 
-<img src="https://<!--this removes the link-->img.shields.io/static/v1?style=flat-square&label=&message=R&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Keras&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Spark&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AWS&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Airflow&color=327df6">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=R&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Keras&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Spark&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AWS&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Airflow&color=327df6">
 
 ---
 
