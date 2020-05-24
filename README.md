@@ -2,7 +2,8 @@
 
 ---
 
-<div style="background-color: blue;">just a test</div>
+<div background-color="blue">just a test</div>
+
 Email: [russovalerio.92%40icloud.com](mailto:russovalerio.92@icloud.com)  
 Mobile: [+393500131231](tel:+393500131231)  
 Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
