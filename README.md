@@ -45,7 +45,7 @@ Working on quick analysis on predictive maintenance, anomaly detection and lifet
 
 Developing iOS applications with a spin-off promoted by my university.
 
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Objective--C&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Swift&color=327df6">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Objective-C&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Swift&color=327df6">
 
 ---
 
