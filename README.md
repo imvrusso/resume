@@ -2,8 +2,6 @@
 
 ---
 
-<div background-color="blue">just a test</div>
-
 Email: [russovalerio.92%40icloud.com](mailto:russovalerio.92@icloud.com)  
 Mobile: [+393500131231](tel:+393500131231)  
 Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
@@ -18,6 +16,8 @@ Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 - Applying deep learning to churn analysis.
 - Applying machine learning to lookalike modelling and multi-channel attribution.
 - Building the pipelines of data science algorithms in production.
+
+<img src="https://img.shields.io/badge/-Angular-167af5"> <img src="https://img.shields.io/badge/-Angular-167af5"> <img src="https://img.shields.io/badge/-Angular-167af5">
 
 ---
 
