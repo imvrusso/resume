@@ -11,7 +11,7 @@ I also love to workout in the early morning. It's my own way to relieve stress a
 Email: [russovalerio.92@icloud.com](mailto:russovalerio.92@icloud.com)   
 Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 
-[Linkedin](https://www.linkedin.com/in/valeriorusso92/)
+[Linkedin](https://www.linkedin.com/in/-vrusso/)
 
 <br/>
 
