@@ -1,4 +1,4 @@
-<div align="center"><h1>Valerio Russo</h1><img src="picture.png" width="30%" height="30%"></div>
+<div align="center"><h1>Valerio Russo</h1><img src="picture.png" width="300px" height="300px"></div>
 
 ---
 
@@ -8,9 +8,8 @@ In my spare time, I like to play video games and watch Netflix shows (I'm a huge
 
 I also love to workout in the early morning. It's my own way to relieve stress and it keeps me energised throughout the day.
 
-Email: [russovalerio.92@icloud.com](mailto:russovalerio.92@icloud.com)   
-Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
-
+Email: [russovalerio.92@icloud.com](mailto:russovalerio.92@icloud.com)  
+Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)  
 [Linkedin](https://www.linkedin.com/in/-vrusso/)
 
 <br/>
