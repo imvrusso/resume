@@ -4,7 +4,7 @@
 
 I'm currently a data scientist at Cuebiq, where I use machine learning to explore geospatial data at scale. Besides that, I'm the one in charge of deploying our models to production. I think that my academic background puts me somewhere in between a data scientist and a data engineer.
 
-In my spare time, I like to play video games and watch Netflix shows (I'm a huge fan of anime). I consider myself a bit geek but definitely at the lower end of the scale.
+In my spare time, I like to play video games and watch Netflix shows (I'm a big fan of anime). I consider myself a bit geek but definitely at the lower end of the scale.
 
 I also love to workout in the early morning. It's my own way to relieve stress and it keeps me energised throughout the day.
 
@@ -19,11 +19,11 @@ Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 #### Data Scientist, [Cuebiq](https://www.cuebiq.com/)
 ##### May 2018 - Present | Milan
 
-- Applying deep learning to churn analysis.
-- Applying machine learning to lookalike modelling and multi-channel attribution.
-- Building the pipelines of data science algorithms in production.
+- Applying deep learning to churn analysis
+- Applying machine learning to lookalike modelling and multi-channel attribution
+- Building the pipelines of data science algorithms in production
 
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=R&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Keras&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Spark&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AWS&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Airflow&color=327df6">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=R&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Keras&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Spark&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AWS&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Airflow&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Presto&color=327df6">
 
 ---
 
@@ -32,15 +32,15 @@ Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 
 Working on quick analysis on predictive maintenance, anomaly detection and lifetime value.
 
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=R&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Hadoop&color=327df6">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=R&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Hadoop&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=327df6">
 
 ---
 
 #### Middleware Consultant, [Oracle](https://www.oracle.com/)
 ##### March 2016 - March 2017 (1 year and 1 month) | Milan
 
-- Building service-oriented applications and documenting the process.
-- Developing a web app that helps clients moving towards the Cloud.
+- Building service-oriented applications and documenting the process
+- Developing a web app that helps clients moving towards the Cloud
 
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Oracle%20SOA&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Node&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=327df6">
 
