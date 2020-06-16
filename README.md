@@ -4,7 +4,7 @@
 
 I'm currently a data scientist at Cuebiq, where I use machine learning to explore geospatial data at scale. Besides that, I'm the one in charge of deploying our models to production. I think that my academic background puts me somewhere in between a data scientist and a data engineer.
 
-In my spare time, I like to play video games and watch Netflix shows (I'm a big fan of anime). I consider myself a bit geek but definitely at the lower end of the scale.
+In my spare time, I like to play video games and watch tv shows (I'm a big fan of anime). I consider myself a bit geek but definitely at the lower end of the scale.
 
 I also love to workout in the early morning. It's my own way to relieve stress and it keeps me energised throughout the day.
 
