@@ -30,7 +30,7 @@ Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 #### Data Scientist, [Oracle](https://www.oracle.com/)
 ##### April 2017 - May 2018 (1 year and 2 months) | Milan
 
-- Working on quick analysis on predictive maintenance, anomaly detection and lifetime value.
+- Working on quick analysis on predictive maintenance, anomaly detection and lifetime value
 
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=R&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Hadoop&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=327df6">
 
@@ -49,7 +49,7 @@ Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 #### Software Developer, [Iper Media Applications](https://www.imapps.it/)
 ##### March 2013 - July 2014 (1 year and 5 months) | Naples
 
-- Developing iOS applications with a spin-off promoted by my university.
+- Developing iOS applications with a spin-off promoted by my university
 
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Objective-C&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Swift&color=327df6">
 
