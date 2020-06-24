@@ -6,7 +6,7 @@ I'm currently a data scientist at Cuebiq, where I use machine learning to explor
 
 In my spare time, I like to play video games and watch tv shows (I'm a big fan of anime). I consider myself a bit geek but definitely at the lower end of the scale.
 
-I also love to workout in the early morning. It's my own way to relieve stress and it keeps me energised throughout the day.
+I also love to workout in the early morning. It's my own way to relieve stress and stay energised throughout the day.
 
 Email: [russovalerio.92@icloud.com](mailto:russovalerio.92@icloud.com)  
 Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)  
@@ -30,7 +30,7 @@ Location: [Cernusco sul Naviglio](https://goo.gl/maps/s1sKSPhFboDjP5v87)
 #### Data Scientist, [Oracle](https://www.oracle.com/)
 ##### April 2017 - May 2018 (1 year and 2 months) | Milan
 
-Working on quick analysis on predictive maintenance, anomaly detection and lifetime value.
+- Working on quick analysis on predictive maintenance, anomaly detection and lifetime value.
 
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=R&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Hadoop&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=327df6">
 
@@ -49,7 +49,7 @@ Working on quick analysis on predictive maintenance, anomaly detection and lifet
 #### Software Developer, [Iper Media Applications](https://www.imapps.it/)
 ##### March 2013 - July 2014 (1 year and 5 months) | Naples
 
-Developing iOS applications with a spin-off promoted by my university.
+- Developing iOS applications with a spin-off promoted by my university.
 
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Objective-C&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Swift&color=327df6">
 
