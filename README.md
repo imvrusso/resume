@@ -1,4 +1,4 @@
-<div align="center"><h1>Valerio Russo</h1><img src="picture.png" width=150px height=150px></div>
+<div align="center"><h1>Valerio Russo</h1><img src="picture.png" width=180px height=180px></div>
 
 ---
 
