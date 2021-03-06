@@ -59,9 +59,10 @@ Email: russovalerio.92@icloud.com | LinkedIn: [vrusso](https://www.linkedin.com/
 ## Education
 
 #### Data Science, [Coursera](https://www.coursera.org/)
-##### 2018 | Remote
+##### (2018 - 2021) | Remote
 
-- Improving your statistical inferences
+- Data Manipulation at Scale: Systems and Algorithms
+- Improving your Statistical Inferences
 - Machine Learning
 - Statistics with R
 
