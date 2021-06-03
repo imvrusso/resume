@@ -1,26 +1,23 @@
-<div align="center"><h1>Valerio Russo</h1><img src="picture.png" width=180px height=180px></div>
+<div align="center"><h1>Valerio Russo</h1><img src="picture.png" width=180px height=180px></div><br/>
 
----
+<div align="center">
+Hi there, my name is Valerio. <br/>
+I’m a data scientist, minimalist and self-development nerd. <br/>
+I always try to keep things simple and live intentionally. <br/><br/>
 
-I'm a data scientist at Cuebiq using machine learning to explore geospatial data.
-
-In my spare time, I like to play video games and watch Netflix shows (I'm a big fan of anime).
-
-I love traveling, training and eating.
-
-Email: russovalerio.92@icloud.com | LinkedIn: [vrusso](https://www.linkedin.com/in/-vrusso/)
-
-<br/>
+Email: <a href='russovalerio.92@icloud.com'>russovalerio.92@icloud.com</a> | <a href='https://www.linkedin.com/in/-vrusso/'>LinkedIn</a>
+</div><br/>
 
 ## Experience
 
 #### Data Scientist, [Cuebiq](https://www.cuebiq.com/)
 ##### May 2018 - Present | Milan
 
+- Technical lead of Cuebiq PaaS for data science
 - Applying deep learning to churn analysis and multi-channel attribution
 - Applying machine learning to lookalike modeling, brand affinity and loyalty, and lifetime value
+- Building data science web apps with Dash
 - Deploying data science pipelines in production
-- Technical lead of Cuebiq PaaS for data science
 
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=R&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Keras&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Spark&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AWS&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Airflow&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=327df6"> <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Presto&color=327df6">
 
