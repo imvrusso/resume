@@ -3,17 +3,17 @@
 <div align="center">
 Hi there, my name is Valerio. <br/>
 I’m a data scientist, minimalist and self-development nerd. <br/>
-I always try to keep things simple and live intentionally. <br/><br/>
+I always try to keep things simple. <br/><br/>
 
 Email: <a href='russovalerio.92@icloud.com'>russovalerio.92@icloud.com</a> | <a href='https://www.linkedin.com/in/-vrusso/'>LinkedIn</a>
 </div><br/>
 
 ## Experience
 
-#### Data Scientist, [Cuebiq](https://www.cuebiq.com/)
+#### Senior Data Scientist, [Cuebiq](https://www.cuebiq.com/)
 ##### May 2018 - Present | Milan
 
-- Technical lead of Cuebiq PaaS for data science
+- Leading data science activities for Cuebiq PaaS implementation and audience extraction
 - Applying deep learning to churn analysis and multi-channel attribution
 - Applying machine learning to lookalike modeling, brand affinity and loyalty, and lifetime value
 - Building data science web apps with Dash
